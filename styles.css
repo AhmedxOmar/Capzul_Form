@@ -1,0 +1,74 @@
+*{
+    font-family: "Poppins";
+}
+
+
+
+.pics-slider{
+    gap: 0;
+}
+
+.pics-slider img{
+    width: 33%;
+}
+.img-1{
+    z-index: 2;
+    margin-right: -6rem;
+}
+
+.img-2{
+    z-index: 3;
+    transform: scale(1.2);
+}
+.img-3{
+    z-index: 2;
+    margin-left: -6rem;
+}
+.logo{
+    width: 200px;
+    margin-left: -2rem;
+}
+
+.form-label > span{
+    font-size: 12px;
+}
+
+.registration-btns .btn{
+    width: 100%;
+    background-color: #007AFF;
+    border-radius: 3px;
+    height: 2.5rem;
+}
+
+.registration-btns .sign-in-btn{
+    background-color: #2D3748;
+}
+
+
+
+
+.apps-img img{
+    width: 150px;
+}
+
+.left{
+    background-color: #007AFF;
+}
+.left-section{
+    margin-top: 6rem;
+}
+
+.left-section .pics-slider{
+    margin-top: 7rem;
+}
+
+.gradient-back-layer{
+    position: absolute;
+    border-radius: 50%;
+    width: 40%;
+    height: auto;
+    background: rgb(15,112,218);
+    background: linear-gradient(225deg, rgba(15,112,218,1) 0%, rgba(0,122,255,1) 100%);
+}
+
+
